@@ -1,5 +1,5 @@
 # Trybe 
-Olá, sou _[Thiago Seichy Ivasaki](https://www.linkedin.com/in/thiago-ivasaki-012b5422a/)_ e estou atualmente sou estudante da [Trybe] (https://www.betrybe.com/) :rocket: . Este será meu portifólio de exercícios que realizarei durante meu curso dentro da Trybe
+Olá, sou _[Thiago Seichy Ivasaki](https://www.linkedin.com/in/thiago-ivasaki-012b5422a/)_ e atualmente sou estudante da [Trybe] (https://www.betrybe.com/) :rocket: . Este será meu portifólio de exercícios que realizarei durante meu curso dentro da Trybe
 
 ## O que é Trybe
 _"A Trybe Ã© uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa sÃ³ paga quando conseguir um bom trabalho."_
