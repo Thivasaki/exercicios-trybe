@@ -1,13 +1,13 @@
 # Trybe 
-Olá, sou _[Thiago Seichy Ivasaki](https://www.linkedin.com/in/thiago-ivasaki-012b5422a/)_ e estou atualmente sou estudante da [Trybe] (https://www.betrybe.com/) :rocket: . Este será meu portifólio de exercícios que realizarei durante meu curso dentro da Trybe
+Olá, sou _[Thiago Seichy Ivasaki](https://www.linkedin.com/in/thiago-ivasaki-012b5422a/)_ e atualmente sou estudante da [Trybe] (https://www.betrybe.com/) :rocket: . Este será meu portifólio de exercícios que realizarei durante meu curso dentro da Trybe
 
 ## O que é Trybe
-_"A Trybe Ã© uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa sÃ³ paga quando conseguir um bom trabalho."_
-O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introduÃ§Ã£o ao desenvolvimento de software, front-end, back-end, ciÃªncia da computaÃ§Ã£o, engenharia de software, metodologias Ã¡geis e habilidades comportamentais.
+_"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa são paga quando conseguir um bom trabalho."_
+O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## Fundamentos do Desenvolvimento Web :white_check_mark:
+## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
-##### Bloco 1: IntroduÃ§Ã£o - Unix & Shell
+##### Bloco 1: Introdução - Unix & Shell
 
 - [X] 1-3: _Unix & Shell- Part 1_
 - [X] 1-4: _Unix & Shell- Part 2_
