@@ -78,7 +78,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
-##### Bloco 10: IntroduÃ§Ã£o - React
+##### Bloco 10: Introdução - React
 
 - [ ] 10-1: _'Hello, world!' no React!_
 - [ ] 10-2: _Componentes React_
@@ -87,7 +87,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 11: React
 
 - [ ] 11-1: _Components com estado e eventos_
-- [ ] 11-2: _FormulÃ¡rios no React_
+- [ ] 11-2: _Formulários no React_
 - [ ] 11-3: _[Projeto - Tryunfo]()_
 
 ##### Bloco 12: React
@@ -96,9 +96,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 12-2: _React Router_
 - [ ] 12-3: _[Projeto - TrybeTunes]()_
 
-##### Bloco 13: Metodologias Ãgeis
+##### Bloco 13: Metodologias Ágeis
 
-- [ ] 13-1: _Metodologias Ãgeis_
+- [ ] 13-1: _Metodologias Ágeis_
 - [ ] 13-2: _[Projeto - Frontend Online Store]()_
 
 ##### Bloco 14: Testes em React
@@ -108,11 +108,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 14-3: _React Testing Library - Testando React Router_
 - [ ] 14-4: _[Projeto - Testes em React]()_
 
-##### Bloco 15: IntroduÃ§Ã£o ao Redux
+##### Bloco 15: Introdução ao Redux
 
-- [ ] 15-1: _IntroduÃ§Ã£o ao Redux_
+- [ ] 15-1: _Introdução ao Redux_
 - [ ] 15-2: _React com Redux - Parte 1_
-- [ ] 15-3: _React com Redux - PrÃ¡tica_
+- [ ] 15-3: _React com Redux - Prática_
 - [ ] 15-4: _React com Redux - Parte 2_
 - [ ] 15-5: _Testes com React-Redux_
 - [ ] 15-6: _[Projeto - Trybe Wallet]()_
@@ -134,20 +134,20 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
-##### Bloco 20: IntroduÃ§Ã£o - Bancos de dados relacionais
+##### Bloco 19: Docker: Utilizando Containers
+
+- [ ] 19-1: _Utilizando Containers - Docker_
+- [ ] 19-2: _Manipulação e Criação de Imagens no Docker_
+- [ ] 19-3: _Orquestrando Containers com Docker Compose_
+- [ ] 19-4: _[Projeto - Docker Todo-List]()_
+
+##### Bloco 20: Introdução à SQL
 
 - [ ] 20-1: _Banco de dados SQL_
 - [ ] 20-2: _Encontrando dados em um banco de dados_
-- [ ] 20-3: _Filtrando dados de forma especÃ­fica_
+- [ ] 20-3: _Filtrando dados de forma específica_
 - [ ] 20-4: _Manipulando tabelas_
-- [ ] 20-5: _[Projeto - All For One]()_
-
-##### Bloco 21: Bancos de dados relacionais
-
-- [ ] 21-1: _FunÃ§Ãµes mais usadas no SQL_
-- [ ] 21-2: _Descomplicando JOINs e UNIONs_
-- [ ] 21-3: _Stored Routines & Subqueries_
-- [ ] 21-4: _[Projeto - Vocabulary Booster]()_
+- [ ] 20-5: _[Projeto - Vocabulary Booster]()_
 
 ##### Bloco 22: Bancos de dados relacionais
 
