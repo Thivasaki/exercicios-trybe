@@ -1,79 +1,44 @@
-# Dia 1.3 Unix & Bash - Parte 1
+# Dia 1.4 Unix & Bash - Parte 2
+Nesse exercício praticamos sobre operadores e como eles são importantes para inputs e outputs. Além de colocarmos em prática o uso das permissões e a manipulação de processos.
 
-Nesse compilado de exercícios nós praticamos diversos comandos dentro do terminal para nos habituarmos em como utilizá-lo para manipular arquivos.
+#### Parte I - Comandos de Input e Output
 
-#### Parte I - Criação de arquivos e diretórios
+1. Navegue até a pasta unix_tests;
 
-1. Utilizando o terminal, aplique o comando de criação de diretórios que você aprendeu, crie um diretório chamado unix_tests e navegue até ele.
+2. Crie um arquivo texto pelo terminal com o nome skills2.txt e adicione os valores Internet, Unix e Bash, um em cada linha.
 
-2. Crie um arquivo de texto com o nome trybe.txt.
+3. Adicione mais 5 itens à sua lista de skills e depois imprima a lista ordenada no terminal. 
 
-3. Crie uma cópia do arquivo trybe.txt com nome trybe_backup.txt.
+4. Conte quantas linhas tem o arquivo skills2.txt.
 
-4. Renomeie o arquivo trybe.txt.
+5. Crie um arquivo chamado top_skills.txt usando o skills2.txt, contendo as 3 primeiras skills em ordem alfabética.
 
-5. Dentro de unix_tests, crie um novo diretório chamado backup.
+6. Crie um novo arquivo chamado phrases2.txt pelo terminal e adicione algumas frases de sua escolha.
 
-6. Mova o arquivo trybe_backup.txt para o diretório backup.
+7. Conte o número de linhas que contêm as letras br.
 
-7. Dentro de unix_tests, crie um novo diretório chamado backup2.
+8. Conte o número de linhas que não contêm as letras br.
 
-8. Mova o arquivo trybe_backup.txt da pasta backup para a pasta backup2.
+9. Adicione dois nomes de países ao final do arquivo phrases2.txt.
 
-9. Apague a pasta backup.
+10. Crie um novo arquivo chamado bunch_of_things.txt com os conteúdos dos arquivos phrases2.txt e countries.txt
 
-10. Renomeie a pasta backup2 para backup.
+11. Ordene o arquivo bunch_of_things.txt.
 
-11. Veja qual o path completo do diretório atual e liste todos os arquivos dentro dele.
+#### Parte II - Permissões
 
-12. Apague o diretório backup.
+1. Navegue até a pasta unix_tests;
 
-13. Limpe o terminal.
+2. Rode o comando ls -l e veja quais as permissões dos arquivos;
 
-Para os exercícios 14 e 15, crie, de forma manual na parte gráfica do seu sistema operacional (através do mouse), um arquivo de texto com o conteúdo abaixo, chamado skills.txt:
-Internet
-Unix
-Bash
-HTML
-CSS
-JavaScript
-React
-SQL
+3. Mude a permissão do arquivo bunch_of_things.txt para que todos os usuários possam ter acesso à leitura e escrita, e verifique se está correto com o comando ls -l;
 
-14. Mostre na tela as 5 primeiras skills do arquivo skills.txt.
+**Resultado esperado:**  -rw-rw-rw- 1 ana ana 1860 ago 13 11:39 bunch_of_things.txt
 
-15. Mostre na tela as 4 últimas skills do arquivo skills.txt.
+4. Tire a permissão de escrita do arquivo bunch_of_things.txt para todos os usuários, verifique se está correto com o comando ls -l;
 
-16. Apague todos os arquivos que terminem em .txt.
+**Resultado esperado:** -r--r--r-- 1 ana ana 1860 ago 13 11:39 bunch_of_things.txt
 
-#### Parte II - Manipulação & Busca
+5. Volte à permissão do arquivo bunch_of_things.txt para a listada inicialmente utilizando o comando chmod 644 bunch_of_things.txt.
 
-1.Na pasta unix_tests, baixe um arquivo com os nomes de todos os países do mundo utilizando o comando curl:
-
-_curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efcca01623b18d/raw/daa24c9fea66afb7d68f8d69f0c4b8eeb9406e83/countries"_
-
-2. Mostre todo o conteúdo do arquivo countries.txt na tela.
-
-3. Mostre o conteúdo de countries.txt, página por página, até encontrar a Zambia.
-
-4. Mostre novamente o conteúdo de countries.txt página por página, mas agora utilize um comando para buscar por Zambia.
-
-5. Busque por Brazil no countries.txt.
-
-6. Busque novamente por brazil, mas agora utilizando o lower case.Para os próximos exercícios, crie um novo arquivo chamado phrases.txt e adicione algumas frases à sua escolha. Não precisa criar o arquivo pelo terminal.
-
-8. Busque pelas frases que não contenham a palavra fox.
-
-9. Conte o número de palavras do arquivo phrases.txt.
-
-10. Conte o número de linhas do arquivo phrases.txt.
-
-11. Crie os arquivos empty.tbt e empty.pdf.
-
-12. Liste todos os arquivos do diretório unix_tests.
-
-13. Liste todos os arquivos que terminem com txt.
-
-14. Liste todos os arquivos que terminem com tbt ou txt.
-
-15. Acesse o manual do comando ls.
+**Resultado esperado:** -rw-r--r-- 1 ana ana 1860 ago 13 11:39 bunch_of_things.txt
