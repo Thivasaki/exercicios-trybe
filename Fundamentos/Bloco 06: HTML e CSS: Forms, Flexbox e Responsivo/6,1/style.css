@@ -1,0 +1,20 @@
+* {
+  font-size: 115%;
+}
+
+main {
+  border: 5px solid black;
+  padding: 30px;
+}
+
+form {
+  line-height: 100px;
+}
+#why {
+  line-height: 0%;
+}
+#text-why{
+  resize: none;
+  font-size: 70%;
+  width: 100%;
+}
