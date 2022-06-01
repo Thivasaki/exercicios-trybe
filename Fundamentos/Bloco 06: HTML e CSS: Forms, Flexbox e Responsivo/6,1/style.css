@@ -1,0 +1,25 @@
+* {
+  font-size: 115%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+  border: 5px solid black;
+  padding: 30px;
+}
+
+form {
+  line-height: 100px;
+}
+.why {
+  line-height: 0%;
+}
+#text-why{
+  resize: none;
+  font-size: 70%;
+  width: 100%;
+}
+
+.agreements {
+  font-size: 20px;
+}
