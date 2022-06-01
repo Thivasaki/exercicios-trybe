@@ -1,5 +1,6 @@
 * {
   font-size: 115%;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 main {
@@ -10,11 +11,15 @@ main {
 form {
   line-height: 100px;
 }
-#why {
+.why {
   line-height: 0%;
 }
 #text-why{
   resize: none;
   font-size: 70%;
   width: 100%;
+}
+
+.agreements {
+  font-size: 20px;
 }

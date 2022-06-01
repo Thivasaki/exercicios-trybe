@@ -27,39 +27,57 @@
           <input type="email" name="email" id="user-email" minlength="10" maxlength="50"
           placeholder="Coloque o seu Email">
         </label>
-    </div>
+      </div>
 
-    <div id="trip-type">
-      <label for="trip-type1">
-        <input type="radio" id="trip-type1" name="trip-type" value="silver">
-        Silver
-      </label>
+      <div class="trip-type">
+        <label for="trip-type1">
+          <input type="radio" id="trip-type1" name="trip-type" value="silver">
+          Silver
+        </label>
 
-      <label for="trip-type2">
-        <input type="radio" id="trip-type2" name="trip-type" value="goldgo">
-        GoldGO!!!
-      </label>
+        <label for="trip-type2">
+          <input type="radio" id="trip-type2" name="trip-type" value="goldgo">
+          GoldGO!!!
+        </label>
 
-      <label for="trip-type3">
-        <input type="radio" id="trip-type3" name="trip-type" value="pure-platinum">
-        Pure Platinum
-      </label>
+        <label for="trip-type3">
+          <input type="radio" id="trip-type3" name="trip-type" value="pure-platinum">
+          Pure Platinum
+        </label>
 
-      <label for="trip-type4">
-        <input type="radio" id="trip-type4" name="trip-type" value="selected-season" checked>
-        Selected Season
-      </label>
-    </div>
+        <label for="trip-type4">
+          <input type="radio" id="trip-type4" name="trip-type" value="selected-season" checked>
+          Selected Season
+        </label>
+      </div>
 
-    <div id="why">
-      <p>Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso TrybeTrip?
-      </p>
+      <div class="why">
+        <p>Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso TrybeTrip?</p>
 
-      <textarea name="why-you" id="text-why" cols="30" rows="10" maxlength="500"></textarea>
+        <textarea name="why-you" id="text-why" cols="30" rows="10" maxlength="500"></textarea>
 
-    </div>
+      </div>
 
+      <div class="date">
+        <label for="best-date"> Data:
+          <input type="date" id="best-date" name="date">
+        </label>
+      </div>
+
+      <div class="agreements">
+        <input type="checkbox" id="if-agreed"> 
+        <label for="if-agreed">
+          Marque para concordar que imagens das minhas férias poderão ser usadas na divulgação
+          de concursos futuros.
+        </label>
+      </div>
+
+      <button id="clear"> Limpar Dados </button><br>
+      <button type="submit" id="submit"> Finalizar </button> 
     </form>
   </main>
+
+  <script src="script.js">
+  </script>
 </body>
 </html>
