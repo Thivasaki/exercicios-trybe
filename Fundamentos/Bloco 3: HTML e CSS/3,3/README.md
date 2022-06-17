@@ -2,6 +2,8 @@
 
 Esse é o último exercício que se foca em modificar o Potfólio Web concebido no dia 3.1 desse Bloco. Aqui há o objetivo de praticar o posicionamento de elementos dentro de um arquivo HTML e CSS. Os requisitos iniciais para esse exercício são:
 
+## REQUISITOS
+
 - Coloque seu nome, sua foto e a descrição que você escreveu sobre você dentro de blocos;
 
 - A descrição deve ficar ao lado da foto;

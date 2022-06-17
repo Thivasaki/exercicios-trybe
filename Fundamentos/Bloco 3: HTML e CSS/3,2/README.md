@@ -1,6 +1,8 @@
 # Dia 3.2 HTML & CSS - Primeiros passos em CSS
 
-Assim como o exercício do dia anterior, esse também entra como caso especial pois aqui  nos é apresentado pela primeira vez a implementação de CSS em arquivos. Nele, foi pedido para aplicarmos estilo em nosso portfólio mencionado anteriormente  e, como avia dito, ele foi atualizado várias vezes e se tornou muito diferente do que foi quando o criei. Caso tenha curiosidade, esses são os principais requisitos
+Assim como o exercício do dia anterior, esse também entra como caso especial pois aqui  nos é apresentado pela primeira vez a implementação de CSS em arquivos. Nele, foi pedido para aplicarmos estilo em nosso portfólio mencionado anteriormente  e, como avia dito, ele foi atualizado várias vezes e se tornou muito diferente do que foi quando o criei. Caso tenha curiosidade, esses são os principais requisitos:
+
+## REQUISITOS
 
 - Defina fontes diferentes para o seu nome e para a descrição que você criou;
 
