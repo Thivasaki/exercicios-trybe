@@ -1,5 +1,5 @@
 # Dia 4.1 JavaScript - Primeiros passos
-Nesse exercício, fizemos quinze pequenos programas como forma de praticar os comandos básicos do JS prendidos no dia. Sendo eles:  lógica condicional, operadores aritméticos , operadores lógicos.
+Nesse exercício, fizemos quinze pequenos programas como forma de praticar os comandos básicos do JS aprendidos no dia. Sendo eles:  lógica condicional, operadores aritméticos , operadores lógicos.
 
 ## REQUISITOS 
 
