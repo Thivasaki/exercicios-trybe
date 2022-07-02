@@ -12,7 +12,7 @@ Esse é o segundo dia onde o foco do aprendizado é o `flexbox`.
 
 3. Adicione uma propriedade Flexbox que faça o container do menu crescer, quando houver espaço disponível.
 
-4 - Utilize a propriedade `align-self` no elemento correto para que o header da página tenha o seguinte comportamento:
+4. Utilize a propriedade `align-self` no elemento correto para que o header da página tenha o seguinte comportamento:
 
 #### PARTE 2
 
@@ -26,6 +26,3 @@ Esse é o segundo dia onde o foco do aprendizado é o `flexbox`.
 
 5. Adicione uma propriedade com o valor 1 que faça com que suas div do container de filmes ocupe todo o espaço em branco.
 
-#### Parte 3 (opcional)
-
-Para finalizar, escolha alguns exercícios antigos como, por exemplo, o portfólio ou até mesmo os projetos de HTML, CSS e JavaScript e estruture as páginas utilizando Flexbox.
