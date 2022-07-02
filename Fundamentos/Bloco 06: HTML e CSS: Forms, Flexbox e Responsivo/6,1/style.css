@@ -11,9 +11,14 @@ main {
 form {
   line-height: 100px;
 }
+p {
+  line-height: 50px;
+}
+
 .why {
   line-height: 0%;
 }
+
 #text-why{
   resize: none;
   font-size: 70%;
