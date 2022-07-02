@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TrybeTrip</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header class="container text-center">
+    <h1 class="display-1">TRYBETRIP</h1>
+  </header>
+
+  <main>
+    <form action="" method="get">
+      
+      <div class="container mb-3">
+        <label class="lead form-label" for="user-name">Nome</label>
+        <input type="text" name="name" class="form-control" id="user-name" minlength="10" maxlength="40"
+        placeholder="Coloque o seu nome">
+      </div>
+
+      <div class="container mb-3">
+        <label class="lead form-label" for="user-email">Email: </label>
+        <input type="email" name="email" class="form-control" id="user-email" minlength="10" maxlength="50"
+        placeholder="Coloque o seu Email">
+      </div>
+
+      <p class="container lead">Tipo de viagem:</p>
+
+      <div class="container form-check">
+        <input type="radio" class="form-check-input" id="trip-type1" name="trip-type" value="silver">
+        <label class="form-check-label" for="trip-type1">
+          Silver
+        </label>
+
+        <br>
+
+        <input type="radio" class="form-check-input" id="trip-type2" name="trip-type" value="goldgo">
+        <label class="form-check-label" for="trip-type2">
+          GoldGO!!!
+        </label>
+
+        <br>
+
+        <input type="radio" class="form-check-input" id="trip-type3" name="trip-type" value="pure-platinum">
+        <label class="form-check-label" for="trip-type3">
+          Pure Platinum
+        </label>
+
+        <br>
+
+        <input type="radio" class="form-check-input" id="trip-type4" name="trip-type" value="selected-season" checked>
+        <label class="form-check-label" for="trip-type4">
+          Selected Season
+        </label>
+      </div>
+
+      <div class="container">
+        <p class=" lead">Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso TrybeTrip?</p>
+
+        <textarea class="form-control" name="why-you" id="text-why" cols="30" rows="10" maxlength="500"></textarea>
+
+      </div>
+
+      <div class="container">
+        <label class="lead" for="best-date"> Data:
+          <input class="form-control" type="date" id="best-date" name="date">
+        </label>
+      </div>
+
+      <div class="container form-check">
+        <input type="checkbox" class="form-check-input" id="if-agreed"> 
+        <label class="form-check-label"  for="if-agreed">
+          Marque para concordar que imagens das minhas férias poderão ser usadas na divulgação
+          de concursos futuros.
+        </label>
+      </div>
+      <div class="container">
+        <button class="btn btn-warning" id="clear"> Limpar Dados </button><br>
+        <button class="btn btn-primary" type="submit" id="submit"> Finalizar </button> 
+      </div>
+    </form>
+  </main>
+
+  <script src="script.js">
+  </script>
+</body>
+</html>
